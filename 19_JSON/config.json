@@ -1,0 +1,14 @@
+{
+    "appname": "Data Analysis",
+    "version": 1.0,
+    "author" : "Mohamed Ibrahim",
+    "model" :"SVM",
+    "db_username" : "sa",
+    "db_password" :"abcdef",
+    "dataset" : "MNIST",
+    "dataset_path" :"/dataset/",
+    "datasets" : [
+        { "dataset1":"/dataset/ds1"},
+        { "dataset2":"/dataset/ds2"}
+    ]
+}
